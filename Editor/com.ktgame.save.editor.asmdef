@@ -1,0 +1,18 @@
+{
+    "name": "com.ktgame.save.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:30de02b328fac2d4d93dbc49bc5d979c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

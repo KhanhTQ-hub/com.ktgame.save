@@ -1,0 +1,11 @@
+{
+  "name": "com.ktgame.save",
+  "version": "1.0.0",
+  "displayName": "com.ktgame.save",
+  "description": "Save and Load Game Data usage PlayerPrefs Unity API,File",
+  "author": {
+    "name": "ktgame",
+    "email": "khanhquang0912qh@gmail.com",
+    "url": "https://github.com/KhanhTQ-hub"
+  }
+}
